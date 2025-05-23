@@ -1,6 +1,6 @@
-<b>Please update to the latest version 1.2.4
-请更新至 v1.2.4 最新版本
-Thanks for playing！
-感谢游玩！
-Have a great time to play
-玩的开心！</b>
+<b>Please update to the latest version 1.2.4</b>
+<b>请更新至 v1.2.4 最新版本</b>
+<b>Thanks for playing！</b>
+<b>感谢游玩！</b>
+<b>Have a great time to play</b>
+<b>玩的开心！</b>
