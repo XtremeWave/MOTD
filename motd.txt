@@ -1,5 +1,6 @@
-<b> 请更新至 v1.2.5.1 最新版本
-<b> Please update to the latest version 1.2.5.1
-<b> 感谢游玩
+<b> 请更新至 v1.2.5.2 最新版本
+<b> Please update to the latest version 1.2.5.2
+<b> 感谢游玩!
 <b> Thanks for playing!
-<b> 谁敢玩轮抽选职
+<b> 轮抽选职终于修好了!
+<b> RoleDarft is finally fixed!
