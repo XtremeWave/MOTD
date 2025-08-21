@@ -2,4 +2,5 @@
 <b> Please update to the latest version 1.2.6
 <b> 模组官网:【https://tore.fangkuai.fun】
 <b> Mod Website:【https://tore.fangkuai.fun】
-
+<b> 提示:使用次数来自于Github的下载次数
+<b> Tip: The number of uses comes from the number of downloads on Github
