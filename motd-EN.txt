@@ -1,1 +1,3 @@
+<b> Please update to the latest version of 1.2.6
+<b> 
 <b> Tip: The number of uses comes from the number of downloads on Github
