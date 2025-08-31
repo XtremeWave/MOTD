@@ -1,5 +1,6 @@
-<b> Please update to the latest version of 1.2.6
+<b> Please update to the latest version of 1.2.8
 <b> Mod Website:【https://tore.fangkuai.fun.com】
 <b> Tip: The number of uses comes from the number of downloads on Github
 <b> innersloth:I blew up 100 servers 
 <b> innersloth:I circled another 100 dollars
+
