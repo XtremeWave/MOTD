@@ -1,10 +1,11 @@
 向大家介绍一下我们
-TORE隶属于<b>XtremeWave</b>团队
-由<b>farewell</b>和<b>FangkuaiYa</b>对模组进行开发
-由<b>艾格</b>绘画模组封面||<b>farewell</b>汉化图标||<b>JMS</b>&&<b>尤路丽丝</b>制作部分图标
+<b>TheOtherRolesEdited</b> 隶属于 <b>XtremeWave</b> 团队
+由 <b>farewell</b> 和 <b>FangkuaiYa</b> 对模组进行开发
+由 <b>艾格</b> 绘画模组封面 || <b>farewell</b>汉化图标 || <b>JMS</b> && <b>尤路丽丝</b>制作部分图标
 也十分感谢各位手机端用户的测试帮助
-[<b>小杨【侦探】</b>](kiosknewsy#5226)
-[<b>合金</b>](halcyonsea#3691) ……
+<b>· 小杨【侦探】</b>(kiosknewsy#5226)
+<b>· 合金</b>(halcyonsea#3691) ……
 如果想了解我们团队请到我们的网站去哦==> <b>https://www.xtreme.net.cn</b>
-十分感谢所有使用和支持TheOtherRolesEdited的用户！(鞠躬.jpg)
-<s>Tip：安卓端又新增x个BUG</s>
+十分感谢所有使用和支持 <b>TheOtherRolesEdited</b> 的用户！(鞠躬.jpg)
+<s>Tip：You can call it TheOtherBugEdited because there are a bunch of bugs on Android again</s>QwQ
+
